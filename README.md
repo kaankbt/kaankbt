@@ -17,7 +17,7 @@
 <details>
  <summary><b>  Medium Published articles</b> </summary>
 <br>
-    <a target="_blank" href="https://medium.com/@kaankubat/what-are-solid-principles-8b69c537238d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kaankubat/0" alt="Recent Article 0"></a>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kaankubat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kaankubat/0" alt="Recent Article 0"></a>
   <br>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kaankubat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kaankubat/1" alt="Recent Article 1"></a>
   <br>
