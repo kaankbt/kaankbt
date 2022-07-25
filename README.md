@@ -1,7 +1,7 @@
-![alt text](https://programmingjava.co.uk/wp-content/uploads/2021/11/cropped-163308-java-graphic_design-logo-text-graphics-3840x2160-1-2.png)
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kaan</h1>
-<h3 align="center">A passionate Java developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <b>Connect with me</b>
 <p><a href="https://www.linkedin.com/in/kaan-kubat2021/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@kaankubat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
