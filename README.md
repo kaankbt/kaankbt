@@ -29,8 +29,6 @@
   <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I got into International Trade Department at Alaaddin Keykubat University in 2017 and I was graduated in 2021. I realized my interest in software and cast my attention to this sector in 2019. Since then, I have received trainings from prestigious and experienced institutions on subjects such as Java, Spring Boot, OOP and Microservice architecture; and I'm disposed to keep receiving them.
-
 </details> 
 
 <br>
